@@ -1,5 +1,5 @@
-# Your.Token
-A simple restricted token for dynamic your.company equity tabulation
+# 109-110 
+A simple restricted token for dynamic equity tabulation
 
 ## BaseSecurityToken
 The YourToken contract uses this reference implementation for ERC-1462:
@@ -14,6 +14,6 @@ It allows us to do two necessary things:
 2) To restrict the transfer of the token based on arbitrary logic (thus allowing compliance with KYC/AML regulations in the EU).
 
 ## Document checks
-The Your.Token contract is meant to be a *riccardian* contract, and this implementation contains a bare-bones way to link legal documents to the token contract, by the `attachDocument` and `lookupDocument` functions.
+The token contract is meant to be a *riccardian* contract, and this implementation contains a bare-bones way to link legal documents to the token contract, by the `attachDocument` and `lookupDocument` functions.
 
 Any legal documents that define the token in reference to a company or legal entity should reference the deployed address of the token contract, as well as each function callable in the interface.
