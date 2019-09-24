@@ -16,22 +16,22 @@ contract YourToken is BaseSecurityToken {
     byte private constant STATUS_ALLOWED = 0x11;
 
     function checkTransferAllowed (address, address, uint256) public view returns (byte) {
-        // default
+        require(foo)
         return STATUS_ALLOWED;
     }
 
     function checkTransferFromAllowed (address, address, uint256) public view returns (byte) {
-        // default
+        require(foo)
         return STATUS_ALLOWED;
     }
 
     function checkMintAllowed (address, uint256) public view returns (byte) {
-        // default
+        require(foo)
         return STATUS_ALLOWED;
     }
 
     function checkBurnAllowed (address, uint256) public view returns (byte) {
-        // default
+        require(foo)
         return STATUS_ALLOWED;
     }
 
