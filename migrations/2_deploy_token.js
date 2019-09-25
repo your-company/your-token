@@ -1,5 +1,6 @@
-const YourToken = artifacts.require("BaseSecurityToken");
+const YourToken = artifacts.require("YourToken");
 
 module.exports = (deployer) => {
-  deployer.deploy("YourToken", );
+  // default initialSupply is 1.0 yourTokens
+  deployer.deploy("YourToken", 1000000000000000000);
 };
