@@ -13,7 +13,7 @@ To bring genuinely good technology companies focusing on impact in the developin
 * Profit as a means to an end, not and end in itself
 * Ownership according to entrepreneurship; influence according to contribution
 * Altruistic reciprocity 
-* Radical Transparency
+* Radical transparency
 
 ## Brand
 
@@ -27,7 +27,7 @@ Beginner's mind.
 
 ## Purpose
 
-~work in progress~
+*work in progress*
 
 The world is getting weirder at an alarming rate. It is an inescapable conclusion that technology is re-shaping human society on a level more fundamental and dramatic than ever thought possible; and it is accelerating. 
 
