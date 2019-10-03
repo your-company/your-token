@@ -21,9 +21,9 @@ Playful subversion.
 
 Tenukido (the way of whole-board play).
 
-Pluripotency (Jack of all trades; master of none)
+Jack of all trades; master of none
 
-Beginner's mind.
+Zen mind, beginner's mind.
 
 ## Purpose
 
