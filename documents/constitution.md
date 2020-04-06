@@ -22,7 +22,7 @@
 
 ### Definitions in the Law
 
-2. All words used in this Constitution which have been defined in the Law have the same meaning as given to them in the Law, unless otherwise stated. 
+2. All words used in this Constitution which have been defined in the Law have the same meaning as given to them in the Law, unless otherwise stated.
 
 ### Constitution subject to the Law
 
@@ -38,6 +38,8 @@
 (c) any other classes of shares issued in accordance with the Law.
 7. No Member may hold less than $1 \times 10^{-18} $ Shares.
 8. The Company’s Office will be situated in the Republic of the Union of Myanmar.
+9.
+
 
 ## Chapter 3: Share capital
 
@@ -57,7 +59,7 @@
 11. If the Company receives an application for a Share by or on behalf of a person and the Company allots a Share to the person as a consequence of that application, the application is to be treated as:
 (a) an agreement by the person to accept that Share subject to the terms on which the Share is allotted;
 (b) a request by the person for the Company to enter the person's name in the Register as the holder of that Share; and
-(c) an agreement by the person to become a Member and, subject to the Law, to be bound by this Constitution. 
+(c) an agreement by the person to become a Member and, subject to the Law, to be bound by this Constitution.
 
 ### Joint holders
 
@@ -85,7 +87,7 @@
 
 ### Certificate for joint holders
 
-16. If Shares are registered in the names of two or more persons, the Company is only required to issue one certificate for each class of those Shares. 
+16. If Shares are registered in the names of two or more persons, the Company is only required to issue one certificate for each class of those Shares.
 
 ### Cancellation of certificate on transfer or transmission
 
@@ -194,7 +196,7 @@
 41. A Member must pay the amount of each call made on them at the times and by the methods determined by the Directors or the terms of issue of the Shares on which the call is made.
 
 ### Prepayment of calls
-42. A Member may at any time pay to the Company all or any part of the amount unpaid on the Shares held by the Member beyond the amounts actually called (if any). 
+42. A Member may at any time pay to the Company all or any part of the amount unpaid on the Shares held by the Member beyond the amounts actually called (if any).
 
 ## Chapter 7: Transfer of Shares
 
@@ -230,7 +232,7 @@
 
 ## Chapter 9: Alteration of capital
 
-50. The Company may alter its capital in any manner permitted by the Law. Subject to the Law, the Directors may do anything required to give effect to any resolution which alters the Company’s share capital. 
+50. The Company may alter its capital in any manner permitted by the Law. Subject to the Law, the Directors may do anything required to give effect to any resolution which alters the Company’s share capital.
 
 ## Chapter 10: Variation or cancellation of rights or restrictions
 
@@ -265,7 +267,7 @@
 58. Notice of a general meeting must be given in the manner provided by this Constitution and the Law to the Members and those persons who are otherwise entitled under this Constitution or the Law to receive notices of general meetings, and must include or be accompanied by all information required by the Law.
 
 ### Directors entitled to notice of general meeting
-59. A Director is entitled to receive notice of, attend and speak at all general meetings. 
+59. A Director is entitled to receive notice of, attend and speak at all general meetings.
 
 ### Omission to give notice of general meeting or comply with notice requirements
 60. Subject to the Law:
@@ -412,7 +414,7 @@
 (d) otherwise received by any other means specified in the notice of meeting, notified by the Company from time to time or otherwise permissible under the Law.
 
 ### Validity of proxy
-96. Subject to the Law, the decision of the chair of a general meeting or, in the chair's absence, the Directors' decision as to the validity of an instrument appointing a proxy or the power of attorney (if any) under which it is signed is final and binding. 
+96. Subject to the Law, the decision of the chair of a general meeting or, in the chair's absence, the Directors' decision as to the validity of an instrument appointing a proxy or the power of attorney (if any) under which it is signed is final and binding.
 
 ## Chapter 16: The Directors
 
@@ -426,7 +428,7 @@
 99. Subject to the Law, each Director will hold office until they are removed under this Constitution or automatically cease to be a Director in accordance with the Law.
 
 ### No Share qualification
-100. A Director is not required to hold any Shares. 
+100. A Director is not required to hold any Shares.
 
 ### Appointment or removal of Directors
 101. Directors may be appointed or removed by Ordinary Resolution or by notice in writing to the Company signed by or on behalf of all Members.
@@ -493,7 +495,7 @@
 (b) pay, or cause to be paid, all costs and expenses incurred in forming and promoting the Company.
 
 ### Directors may vote shares in other companies
-117. Subject to the Law, the Directors may exercise the voting power conferred by the shares in any company held by the Company in any manner they determine, including in circumstances 
+117. Subject to the Law, the Directors may exercise the voting power conferred by the shares in any company held by the Company in any manner they determine, including in circumstances
 where a Director may be interested in the exercise, such as an exercise in favour of any resolution appointing a Director as an Officer of the other company or voting or providing for the payment of remuneration to Officers of the other company.
 
 ### Agent or attorney
@@ -545,7 +547,7 @@ where a Director may be interested in the exercise, such as an exercise in favou
 ### Resolution in writing
 131. If there is only one Director, that Director may pass a resolution by recording it and signing the record.
 
-132. If there is more than one Director, the Directors may pass a resolution without a meeting of Directors being held if all of the Directors entitled to vote on the resolution sign a document containing a statement that they are in favour of the resolution set out in the document. Identical copies of the document and accompanying information may be distributed for signing by all Directors. The resolution is passed when the last participating Director signs the document. 
+132. If there is more than one Director, the Directors may pass a resolution without a meeting of Directors being held if all of the Directors entitled to vote on the resolution sign a document containing a statement that they are in favour of the resolution set out in the document. Identical copies of the document and accompanying information may be distributed for signing by all Directors. The resolution is passed when the last participating Director signs the document.
 
 ### Committee powers and meetings
 133. Any committee of Directors must exercise the powers, authorities and discretions delegated to it in accordance with any directions that may be imposed on it by the Directors.
@@ -567,7 +569,7 @@ where a Director may be interested in the exercise, such as an exercise in favou
 (a) to perform the duties of secretary of the Company on a temporary basis; or
 (b) as assistant secretary of the Company.
 
-138. A Secretary holds office on the terms (including as to remuneration) and with the powers, authorities and duties, as the Directors determine. The exercise of those powers and authorities and the performance of those duties by a Secretary is subject at all times to the control of the Directors. A Secretary may be removed by the Directors. 
+138. A Secretary holds office on the terms (including as to remuneration) and with the powers, authorities and duties, as the Directors determine. The exercise of those powers and authorities and the performance of those duties by a Secretary is subject at all times to the control of the Directors. A Secretary may be removed by the Directors.
 
 ## Chapter 21: The Seal
 139. If the Company has a Seal:
@@ -599,7 +601,7 @@ where a Director may be interested in the exercise, such as an exercise in favou
 ### Distributions payable by distribution of assets
 145. Subject to all applicable laws, the Directors may determine that any dividend or other distribution be paid wholly or partly by the distribution of specific property or assets, including paid up shares, debentures or other securities of the Company or any other company, trust or entity.
 
-146. Each Member agrees and consents to the distribution to them of any property or assets under clause 145, including shares, debentures or other securities of the Company or any other company, trust or entity. 
+146. Each Member agrees and consents to the distribution to them of any property or assets under clause 145, including shares, debentures or other securities of the Company or any other company, trust or entity.
 
 ### Directors’ discretion
 147. All matters concerning dividends or other distributions including valuations of property and assets will be determined by the Directors, and in particular the Directors may:
@@ -646,7 +648,7 @@ where a Director may be interested in the exercise, such as an exercise in favou
 155. Any minutes of any general meetings, meetings of Directors or meetings of any committee of the Directors must be signed within a reasonable time after the meeting by the chair of the meeting or by the chair of the next succeeding meeting or by another authorised Director and once signed will constitute prima facie evidence of the matters stated in the minutes.
 
 ### Registers
-156. The Company must keep a register of Members and any other registers required to be kept under the Law. 
+156. The Company must keep a register of Members and any other registers required to be kept under the Law.
 
 ## Chapter 26: Inspection of records
 157. Subject to the Law, the Directors may determine to what extent the documents and records of the Company will be open to inspection by any person and any reasonable fees payable. This chapter 26 does not limit the rights of a Member, Director or former Director under applicable Law or any agreement with the Company.
@@ -679,4 +681,3 @@ where a Director may be interested in the exercise, such as an exercise in favou
 
 ### Signing notices
 165. The signature to any notice to be given by the Company may be written, printed or provided by electronic means.
-
