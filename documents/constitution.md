@@ -15,59 +15,59 @@
    **"Blockchain"** means the Ethereum blockchain protocol, unless an alternative blockchain is specified.
 
    **"Commit" or "Committed"** means the creation of a hashed pointer to writing, information, or other documents, that irreversibly proves the existence and state of such writing, information, or other documents at the time of commitment.
-   
+
    **"Corporate representative"** means a person appointed as a body corporate Member's representative under the Law.
-   
+
    **"Director"** means a person appointed as a director of the Company in accordance with this Constitution and the Law.
-   
+
    **"Distribution"** includes a return of capital, bonus share issue, payment in respect of any share buy-back and any other income or capital distribution.
-   
+
    **"Document"** includes, unless otherwise stated, any document sent or supplied in electronic form.
-   
+
    **"Encryption" or "Encrypted"** means the process of using cryptographic techniques to protect and obscure information or writing from all persons except the intended recipient, who may access such information using an account or private key.
-   
+
    **"General meeting"** means a general meeting of the Company.
-   
+
    **"Hash"** means the cryptographic technique of generating a unique and irreversible identifier derivable only from an original document or communication.
-   
-   **"Hard-fork"** means the process of upgrading the blockchain by enacting a change to the underlying protocol. 
-   
+
+   **"Hard-fork"** means the process of upgrading the blockchain by enacting a change to the underlying protocol.
+
    **"Law"** means the Myanmar Companies Law 2017.
-   
+
    **"Member"** means a person who is entered in the Register as the holder of one or more Shares.
-   
+
    **"Office"** means the registered office of the Company.
-   
+
    **"Person"** means, unless the context requires otherwise, a natural person, unincorporated body, firm, partnership, corporate body, or the nominee of an unincorporated body, firm, partnership, or corporate body.
-   
+
    **"Poll"** means, for the purposes of voting, a count of votes attached to shares held by each Member.
-   
+
    **"Public Key" and "Private Key"** means the public and secret numbers associated with a blockchain account, used to generate and verify cryptographic signatures.
-   
+
    **"Register"** means the register of the Company's members required to be set up and maintained under the Law.
-   
-   **"Repository"** means, unless otherwise specified, a location or address on the Internet from which data, code, documents, and copies of smart contracts may be fetched by request. 
-   
+
+   **"Repository"** means, unless otherwise specified, a location or address on the Internet from which data, code, documents, and copies of smart contracts may be fetched by request.
+
    **"Resolution"** means any resolution and includes a resolution of the Directors, an Ordinary Resolution and a Special Resolution.
-   
+
    **"Seal"** means any common seal of the Company, and in the case of electronic forms, means the valid signature of the account of the Company, or of a Director of the Company.
-   
+
    **"Secretary"** means any person appointed as a secretary of the Company in accordance with this Constitution and the Law.
-   
+
    **"Share"** means a share in the capital of the Company.
-   
+
    **"Show of hands"** means, for the purposes of voting, a count of hands of Members.
-   
+
    **"Smart Contract"** means code deployed on the blockchain that mediates and defines rules of digital asset properties and behaviors, and which, like a person, may have an associated account and address.
-   
+
    **"Signature"** means, depending on context, the handwritten signature of a person, and in the case of electronic communication, the cryptographic signature associated with that person.
-   
-   **"Token"** means, unless otherwise specified, a blockchain-based unit-of-account that behaves according to the properties encoded in its smart contract. 
-   
+
+   **"Token"** means, unless otherwise specified, a blockchain-based unit-of-account that behaves according to the properties encoded in its smart contract.
+
    **"Transaction"** means, unless otherwise specified, a transaction on the blockchain submitted and signed by an account.
-   
+
    **"Validation" and "Valid"** means, unless otherwise specified, the process of verifying or 'proving', through crypto-economic techniques, that a particular account, hash, transaction, or signature was created and/or derived from the original document, data, account, or message; and having provided such cryptographic proof, the object in question is said to be 'valid'. In the case of blockchain-specific validation, a particular object in question is 'valid' if and only if the data has been included in no less than 109 blocks in the chain.
-   
+
    **"Writing"** means the representation or reproduction of words, symbols, or other information in a visible form by any method or combination of methods, whether sent or supplied in electronic form or otherwise.
 ### Definitions in the Law
 
@@ -99,14 +99,14 @@
     (b) grant an option over the issue of any Shares to any persons, on any terms and during any time as the Directors determine; and
     (c) without limiting clause 10(a), allot and issue Shares with any preferential, deferred or special rights or with any restrictions (whether in regard to dividends or other distributions, voting or otherwise) as the Directors determine.
 11. Subject to the Law, all Shares allotted and issued by the Company *must* be issued as tokens on the blockchain, with:
-    (a) the address of the token smart contract being registered in the Share schedule; and 
-    (b) the transfer of shares signed by an account of a Director of the Company. 
+    (a) the address of the token smart contract being registered in the Share schedule; and
+    (b) the transfer of shares signed by an account of a Director of the Company.
 
 ### Applications for Shares
 
 12. If the Company receives an application for a Share by or on behalf of a person and the Company allots a Share to the person as a consequence of that application, the application is to be treated as:
     (a) an agreement by the person to accept that Share subject to the terms on which the Share is allotted;
-    (b) a request by the person for the Company to enter the person's account in the Register as the holder of that Share; 
+    (b) a request by the person for the Company to enter the person's account in the Register as the holder of that Share;
     (c) an agreement by the person to accept that the security of their account and shares, manifested in the secrecy of their account's private key, is the person's sole responsibility; and
     (d) an agreement by the person to become a Member and, subject to the Law, to be bound by this Constitution.
 
@@ -124,17 +124,17 @@
 
 ### Certificates as smart contracts
 
-15. Subject to this Constitution, each Member's account balance of tokenized Shares constitutes, at any given time, a certificate recognizing that Member's ownership of Shares. 
+15. Subject to this Constitution, each Member's account balance of tokenized Shares constitutes, at any given time, a certificate recognizing that Member's ownership of Shares.
 
 ### Certificate of transfer or transmission
 
-16. Subject to this Constitution and to the requirements of the Law, on every application to register the transfer of any Shares, or to register any person as a holder of any Shares which have been transmitted to that person by operation of law, the certificate for those Shares is defined by the changes to the associated owners and account balances of the Shares, as specified in the smart contract of the tokenized Shares. 
+16. Subject to this Constitution and to the requirements of the Law, on every application to register the transfer of any Shares, or to register any person as a holder of any Shares which have been transmitted to that person by operation of law, the certificate for those Shares is defined by the changes to the associated owners and account balances of the Shares, as specified in the smart contract of the tokenized Shares.
 
 ### Immutability of certificates
 
-17. Insofar as the data representing ownership of Shares is immutable by the blockchain protocol and associated with the Member's account, there can be no replacement or alteration of Shares external to the encoded rules of the Share Registry smart contract(s). 
+17. Insofar as the data representing ownership of Shares is immutable by the blockchain protocol and associated with the Member's account, there can be no replacement or alteration of Shares external to the encoded rules of the Share Registry smart contract(s).
 
-18. In such rare and extenuating circumstances necessitating extra-protocol intervention for transfer, issue, or revocation of Shares, the action taken shall be determined by the reasonable judgment of Directors of the Company, and approved by a show of hands from the Board of Directors. The Directors of the Company will then take whatever action is deemed appropriate by the Board of Directors, and following such action will provide a written document detailing the actions taken, committed to the blockchain and signed by the Directors. 
+18. In such rare and extenuating circumstances necessitating extra-protocol intervention for transfer, issue, or revocation of Shares, the action taken shall be determined by the reasonable judgment of Directors of the Company, and approved by a show of hands from the Board of Directors. The Directors of the Company will then take whatever action is deemed appropriate by the Board of Directors, and following such action will provide a written document detailing the actions taken, committed to the blockchain and signed by the Directors.
 
 ## Chapter 5: Transfer of Shares
 
@@ -169,11 +169,11 @@
 ### Changes to this Constitution
 25. Each Member agrees to be bound by any modification of this Constitution made in accordance with the Law after the date on which they become a Member.
 
-26. Changes to this Constitution must be approved by 67% of voting weight proportional to Share ownership. 
+26. Changes to this Constitution must be approved by 67% of voting weight proportional to Share ownership.
 
 27. If the changes to the constitution are not agreeable to any Member, following the approval of amendments to this Constitution but before the ratification of new changes, there shall be a grace period of no less than 28 days whereby disapproving members shall have the opportunity to redeem their shares for money at a reasonable value determined by the Board of Directors, proportional to their representation as stake in the Company. After compensation, the Shares will be permanently and immutably canceled.
 
-28. Following ratification of the amended Constitution, the hash of the new Constitution shall be submitted as a transaction to the blockchain and contain the signature of all Directors. 
+28. Following ratification of the amended Constitution, the hash of the new Constitution shall be submitted as a transaction to the blockchain and contain the signature of all Directors.
 
 ## Chapter 8: General meetings
 
@@ -194,9 +194,9 @@
 31. Notice of a general meeting must be given in the manner provided by this Constitution and the Law to the Members and those persons who are otherwise entitled under this Constitution or the Law to receive notices of general meetings, and must include or be accompanied by all information required by the Law.
 
 ### Records of general meeting
-32. Regardless of meeting type, all meetings are required to be recorded and made available to all Members, such that they may be able to have a complete record of what was said during the meeting. 
+32. Regardless of meeting type, all meetings are required to be recorded and made available to all Members, such that they may be able to have a complete record of what was said during the meeting.
 
-33. Recordings of general meetings must be kept encrypted and made available by request of any Members who wish to receive a copy. 
+33. Recordings of general meetings must be kept encrypted and made available by request of any Members who wish to receive a copy.
 
 ## Chapter 9: Proceedings at general meeting
 
@@ -326,7 +326,7 @@
 66. A Director is not required to hold any Shares.
 
 ### Appointment or removal of Directors
-67. Directors may be appointed or removed by Ordinary Resolution or by notice in writing to the Company signed by or on behalf of all Members, excluding the Director in question. 
+67. Directors may be appointed or removed by Ordinary Resolution or by notice in writing to the Company signed by or on behalf of all Members, excluding the Director in question.
 
 ### Alternate Director
 68. Subject to the Law, each Director may, if a majority of the other Directors approve, appoint a person (whether or not a Member) to act as an alternate Director in that Director’s place during any period the appointing Director determines. The appointment must be in writing, signed by the appointing Director, and committed to the blockchain by the appointing Director. Any alternate Director:
@@ -336,7 +336,7 @@
     (d) is not required to hold any Shares;
     (e) subject to the terms of their appointment, may exercise any powers that the appointer may exercise in the alternate's own right where the appointer is unavailable for any reason except the power to appoint an alternate Director.
     (f) will automatically vacate office if the appointer is removed or otherwise ceases to be a Director;
-    (g) while acting as a Director, is: 
+    (g) while acting as a Director, is:
     	(i) an officer of the Company and not the appointing Director's agent; and
     	(ii) responsible to the Company for the alternate's own acts and defaults;
     (h) is not entitled to receive any remuneration from the Company but is entitled to paid or reimbursed for reasonable traveling and other costs and expenses incurred in attending and returning from meetings of Directors, any committee of the Directors or any general meetings or otherwise in connection with the Company's business; and
@@ -534,14 +534,14 @@
      (e) by post by sending it addressed to the Member at the Member's address in the Register or notified to the Company or otherwise known to the Company; or
      (f) otherwise by any method (including by advertisement) as the Directors may determine.
 
-119. The Company shall commit to the blockchain such notices given to a Member. 
+119. The Company shall commit to the blockchain such notices given to a Member.
 
 ### Notice deemed to be given
-120. Any notice by the Company will be deemed to have been given at the timestamp associated with the finalized block containing the transaction that posts the committed notice. 
+120. Any notice by the Company will be deemed to have been given at the timestamp associated with the finalized block containing the transaction that posts the committed notice.
 
 
 ### Notices binding on transferees
 121. Every person who becomes entitled to any Share by operation of law, transfer or otherwise will be bound by every notice in respect of the Share which, before that person's name and address is entered on the Register, is duly given to the person from whom title to the Share is derived.
 
 ### Signing notices
-122. The signature to any notice to be given by the Company must have the seal of the Company, i.e. the cryptographic signature of the company's account, or of one of its Directors. 
+122. The signature to any notice to be given by the Company must have the seal of the Company, i.e. the cryptographic signature of the company's account, or of one of its Directors.
