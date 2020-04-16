@@ -2,23 +2,75 @@
 
 ## Chapter 1: Terms and Definitions
 
+### Interpretations
+
 1. In this Constitution, subject to clause 2, unless the context otherwise requires:
-(a) **corporate representative** means a person appointed as a body corporate Member's representative under the Law.
-(b) **Director** means a person appointed as a director of the Company in accordance with this Constitution and the Law.
-(c) **distribution** includes a return of capital, bonus share issue, payment in respect of any share buy-back and any other income or capital distribution.
-(d) **general meeting** means a general meeting of the Company.
-(e) **Law** means the Myanmar Companies Law 2017.
-(f) **Lien Monies** has the meaning given in clause 28(a).
-(g) **Member** means a person who is entered in the Register as the holder of one or more Shares.
-(h) **Office** means the registered office of the Company.
-(i) **Outstanding Monies** has the meaning given in clause 29(b).
-(j) **poll** means, for the purposes of voting, a count of votes attached to shares held by each Member.
-(k) **Register** means the register of the Company's members required to be set up and maintained under the Law.
-(l) **resolution** means any resolution and includes a resolution of the Directors, an Ordinary Resolution and a Special Resolution.
-(m) **Seal** means any common seal of the Company.
-(n) **Secretary** means any person appointed as a secretary of the Company in accordance with this Constitution and the Law.
-(o) **Share** means a share in the capital of the Company.
-(p) **show of hand** means, for the purposes of voting, a count of hands of Members.
+
+   **"Address"** means, depending on context, either a postal address, or for the purposes of electronic communication, an email address, phone number, or for the purposes of secure electronic registry, an address in a virtual account space, such as a blockchain or IP address.
+
+   **"Account"** means, unless otherwise specified, a blockchain account referencing a public/private key pair, and an accompanying address derived thereof, associated with a person or with a smart contract.
+
+   **"Board of Directors"** means all those persons appointed to perform the duties of directors of the Company.
+
+   **"Blockchain"** means the Ethereum blockchain protocol, unless an alternative blockchain is specified.
+
+   **"Corporate representative"** means a person appointed as a body corporate Member's representative under the Law.
+   
+   **"Director"** means a person appointed as a director of the Company in accordance with this Constitution and the Law.
+   
+   **"Distribution"** includes a return of capital, bonus share issue, payment in respect of any share buy-back and any other income or capital distribution.
+   
+   **"Document"** includes, unless otherwise stated, any document sent or supplied in electronic form.
+   
+   **"Encryption" or "Encrypted"** means the process of using cryptographic techniques to protect and obscure information or writing from all persons except the intended recipient, who may access such information using an account or private key.
+   
+**"General meeting"** means a general meeting of the Company.
+   
+**"Hash"** means the cryptographic technique of generating a unique and irreversible identifier derivable only from an original document or communication.
+   
+**"Hard-fork"** means the process of upgrading the blockchain by enacting a change to the underlying protocol. 
+   
+**"Law"** means the Myanmar Companies Law 2017.
+   
+   **"Lien Monies"** has the meaning given in clause 28(a).
+   
+   **"Member"** means a person who is entered in the Register as the holder of one or more Shares.
+   
+**"Office"** means the registered office of the Company.
+   
+**"Outstanding Monies"** has the meaning given in clause 29(b).
+   
+**"Person"** means, unless the context requires otherwise, a natural person, unincorporated body, firm, partnership, corporate body, or the nominee of an unincorporated body, firm, partnership, or corporate body.
+   
+   **"Poll"** means, for the purposes of voting, a count of votes attached to shares held by each Member.
+   
+   **"Public Key" and "Private Key"** means the public and secret numbers associated with a blockchain account, used to generate and verify cryptographic signatures.
+   
+   **"Register"** means the register of the Company's members required to be set up and maintained under the Law.
+   
+   **"Repository"** means, unless otherwise specified, a location or address on the Internet from which data, code, documents, and copies of smart contracts may be fetched by request. 
+   
+   **"Resolution"** means any resolution and includes a resolution of the Directors, an Ordinary Resolution and a Special Resolution.
+   
+   **"Seal"** means any common seal of the Company, and in the case of electronic forms, means the valid signature of the account of the Company, or of a Director of the Company.
+   
+   **"Secretary"** means any person appointed as a secretary of the Company in accordance with this Constitution and the Law.
+   
+   **"Share"** means a share in the capital of the Company.
+   
+   **"Show of hands"** means, for the purposes of voting, a count of hands of Members.
+   
+   **"Smart Contract"** means code deployed on the blockchain that mediates and defines rules of digital asset properties and behaviors, and which, like a person, may have an associated account and address.
+   
+   **"Signature"** means, depending on context, the handwritten signature of a person, and in the case of electronic communication, the cryptographic signature associated with that person.
+   
+   **"Token"** means, unless otherwise specified, a blockchain-based unit-of-account that behaves according to the properties encoded in its smart contract. 
+   
+   **"Transaction"** means, unless otherwise specified, a transaction on the blockchain submitted and signed by an account.
+   
+   **"Validation" and "Valid"** means, unless otherwise specified, the process of verifying or 'proving', through crypto-economic techniques, that a particular account, hash, transaction, or signature was created and/or derived from the original document, data, account, or message; and having provided such cryptographic proof, the object in question is said to be 'valid'. In the case of blockchain-specific validation, a particular object in question is 'valid' if and only if the data has been included in no less than 109 blocks in the chain.
+   
+   **"Writing"** means the representation or reproduction of words, symbols, or other information in a visible form by any method or combination of methods, whether sent or supplied in electronic form or otherwise.
 
 ### Definitions in the Law
 
@@ -36,190 +88,78 @@
 (a) ordinary shares (which shall have the rights as set out in the Law); and
 (b) the additional classes of Shares set out in the Schedule (which shall have the rights set out in the Schedule); and
 (c) any other classes of shares issued in accordance with the Law.
-7. No Member may hold less than $1 \times 10^{-18} $ Shares.
+7. No Member may hold less than 0.000000000000000001 Shares.
 8. The Company’s Office will be situated in the Republic of the Union of Myanmar.
-9.
+9. The Company's Register will be situated on the Ethereum Blockchain.
 
 
 ## Chapter 3: Share capital
 
 ### Allotment and issue of Shares
 
-9. Subject to the Law, the Company may:
-(a) allot and issue Shares to any persons, on any terms and at those times as the Directors determine;
-(b) grant an option over the issue of any Shares to any persons, on any terms and during any time as the Directors determine; and
-(c) without limiting clause 9(a), allot and issue Shares with any preferential, deferred or special rights or with any restrictions (whether in regard to dividends or other distributions, voting or otherwise) as the Directors determine.
+10. Subject to the Law, the Company may:
+    (a) issue Shares to any persons, on any terms and at those times as the Directors determine;
+    (b) grant an option over the issue of any Shares to any persons, on any terms and during any time as the Directors determine; and
+    (c) without limiting clause 10(a), allot and issue Shares with any preferential, deferred or special rights or with any restrictions (whether in regard to dividends or other distributions, voting or otherwise) as the Directors determine.
+11. Subject to the Law, all Shares allotted and issued by the Company *must* be issued as tokens on the blockchain, with:
+    (a) the address of the token smart contract being registered in this Constitution; and 
+    (b) the transfer of shares signed by an account of a Director of the Company. 
 
 ### Company may issue preference Shares
 
-10. Subject to the Law, and without limiting clause 9, the Company may allot and issue preference Shares on any terms the Directors determine including preference Shares which are, or which at the option of the Company or holder or both may be, liable to be redeemed or converted into ordinary Shares.
+12. Subject to the Law, and without limiting clause 9, the Company may allot and issue preference Shares on any terms the Directors determine including preference Shares which are, or which at the option of the Company or holder or both may be, liable to be redeemed or converted into ordinary Shares.
+13. Subject to the Law, all preference Shares shall abide by the same requirements established in clause 11. 
 
 ### Applications for Shares
 
-11. If the Company receives an application for a Share by or on behalf of a person and the Company allots a Share to the person as a consequence of that application, the application is to be treated as:
-(a) an agreement by the person to accept that Share subject to the terms on which the Share is allotted;
-(b) a request by the person for the Company to enter the person's name in the Register as the holder of that Share; and
-(c) an agreement by the person to become a Member and, subject to the Law, to be bound by this Constitution.
-
-### Joint holders
-
-12. Two or more persons registered as the holders of any Share are deemed to hold the Share as joint tenants, subject to the following provisions:
-(a) the joint holders are jointly and severally liable for all payments (including amounts payable under a call) which are required to be made on, for or in respect of the Share;
-(b) if a joint holder dies, the survivor or survivors are the only person or persons recognised by the Company as having any title to the Share, but the Directors may require evidence of death;
-(c) any one joint holder may give a valid receipt for any dividend or other distribution to the joint holders; and
-(d) delivery of a notice, a report, accounts or a certificate for the Share to any joint holder is sufficient delivery to all the joint holders.
+12. If the Company receives an application for a Share by or on behalf of a person and the Company allots a Share to the person as a consequence of that application, the application is to be treated as:
+    (a) an agreement by the person to accept that Share subject to the terms on which the Share is allotted;
+    (b) a request by the person for the Company to enter the person's account in the Register as the holder of that Share; 
+    (c) an agreement by the person to accept that the security of their account and shares, manifested in the secrecy of their account's private key, is the person's sole responsibility; and
+    (d) an agreement by the person to become a Member and, subject to the Law, to be bound by this Constitution.
 
 ### Recognition of trusts or other interests in Shares
 
-13. Subject to the Law, the Company may treat the registered holder of any Share as the absolute owner of that Share and, accordingly, the Company is not required to recognise (whether or not it has notice):
-(a) a person as holding a Share on any trust; or
-(b) any equitable, contingent, future or partial interest in any Share.
+12. Subject to the Law, the Company may treat the registered holder of any Share as the absolute owner of that Share and, accordingly, the Company is not required to recognise (whether or not it has notice):
+    (a) a person as holding a Share on any trust; or
+    (b) any equitable, contingent, future or partial interest in any Share.
 
 ## Chapter 4: Certificates
 
 ### Issue of certificates
 
-14. If the Company is required by the Law to issue a certificate for any Shares, the certificate must be issued in accordance with, and must include all information required by, the Law.
+13. If the Company is required by the Law to issue a certificate for any Shares, the certificate must be issued in accordance with, and must include all information required by, the Law.
 
-### Member's entitlement to certificate
+### Certificates as smart contracts
 
-15. Subject to this Constitution, each Member is entitled upon request and free of charge to one certificate for each class of Shares registered in their name.
+15. Subject to this Constitution, each Member's account balance of tokenized Shares constitutes, at any given time, a certificate recognizing that Member's ownership of Shares. 
 
-### Certificate for joint holders
+### Certificate of transfer or transmission
 
-16. If Shares are registered in the names of two or more persons, the Company is only required to issue one certificate for each class of those Shares.
+17. Subject to this Constitution and to the requirements of the Law, on every application to register the transfer of any Shares, or to register any person as a holder of any Shares which have been transmitted to that person by operation of law, the certificate for those Shares is defined by the changes to the associated owners and account balances of the Shares, as specified in the smart contract of the tokenized Shares. 
 
-### Cancellation of certificate on transfer or transmission
+### Immutability of certificates
 
-17. Subject to this Constitution and to the requirements of the Law, on every application to register the transfer of any Shares, or to register any person as a holder of any Shares which have been transmitted to that person by operation of law, the certificate for those Shares must be delivered to the Company for cancellation if such a certificate has been issued.
+18. Insofar as the data representing ownership of Shares is immutable by the blockchain protocol and associated with the Member's account, there can be no replacement or alteration of Shares external to the encoded rules of the Share Registry smart contract(s). 
 
-### Replacement of certificates
+19. In such rare and extenuating circumstances necessitating extra-protocol intervention for transfer, issue, or revocation of Shares, the action taken shall be determined by the reasonable judgment of Directors of the Company, and approved by a show of hands from the Board of Directors. 
 
-18. The Company must issue a replacement certificate to a Member upon request if a certificate for any Share is:
-(a) worn out or defaced, on delivery of the worn out or defaced certificate to the Company; or
-(b) lost or destroyed, when the Company is given:
-    (i) evidence that the certificate has been lost or destroyed, and has not been pledged, sold or otherwise disposed of; and
-    (ii) an undertaking to return the certificate to the Company, if found or received.
-
-19. The Company must issue all replacement certificates within 28 days after receiving the original certificate or being given the evidence and other items referred to in clause 18(b), as applicable, or such shorter period (if any) required under the Law.
-
-## Chapter 5: Lien & Forfeiture
-
-###	Lien
-
-20. The Company has a first and paramount lien on each Share for:
-(a) all amounts due and unpaid on the Share;
-(b) all amounts owing to the Company for acquiring the Share;
-(c) all amounts payable to the Company in respect of the Share;
-(d) interest (if any) accrued under clause 40 (including as a result of the application of that clause to any debt or amounts under clause 39); and
-(e) reasonable costs and expenses incurred by the Company because an amount referred to in this clause is not paid when due.
-
-### Extent of lien
-
-21. The Company's lien on a Share extends to all dividends and other distributions and other amounts payable to the holder of the Share in respect of the Share, including the proceeds of the sale or other disposal of the Share. The Company may deduct from or set-off against any dividends or other distributions or other amounts subject to the Company's lien any amounts, interest and costs and expenses referred to in clause 20.
-
-### Exemption from lien
-
-22. The Company may at any time:
-(a) exempt a Share in whole or in part from the provisions of clauses 20 and 21; or
-(b) waive or compromise payment of all or any part of any amounts, interest and costs and expenses referred to in clause 20.
-
-### Company may forfeit instead of exercising lien
-
-23. If clauses 24 to 26 apply to a Share to which clauses 20 to 22 also apply, the Company may choose which of the lien or forfeiture procedures under this clause it will use. Choosing to use one of the procedures under a clause does not limit the Company's rights to use the other procedures under the other clauses.
-
-### Forfeiture on non-payment of calls
-
-24. Without limiting clauses 20 to 22, unless the Company otherwise determines, any Share on which a call is unpaid (in whole or in part) will, 28 days after the Company gives notice to the Member that the day for its payment has expired, be absolutely forfeited without any resolution of the Directors or other proceeding being required. Subject to the Law, the Company may then cancel or sell or otherwise dispose of the forfeited Share.
-
-### Evidence of forfeiture
-
-25. A written statement declaring that the person making the statement is a Director or Secretary and that a Share has been forfeited on a date stated in the statement, is conclusive evidence of the facts stated in the statement as against all persons claiming to be entitled to or otherwise have an interest in the Share.
-
-### Effect of forfeiture
-
-26. On forfeiture of a Share, the person whose Share is forfeited:
-(a) ceases to be a Member in respect of the forfeited Share;
-(b) without limiting clause 26(a), loses all entitlements to dividends or other distributions determined or declared or otherwise payable in respect of the forfeited Share and not actually paid; and
-(c) remains liable to pay the Company all amounts which, at the date of forfeiture, were payable by them to the Company on, for or in respect of the forfeited Share, including all interest (if any) accrued under clause 40. The Company is under no obligation to enforce payment.
-
-### Sale of Share under lien or sale of forfeited Shares
-
-27. The Company may sell or otherwise dispose of any Share on which the Company has a lien subject to clause 28, or which it has determined shall be forfeited, on any terms and in any manner the Directors determine, provided the sale or other disposal is in accordance with any applicable requirements of the Law.
-
-28. The Company may not sell any Share on which it has a lien unless:
-(a) an amount in respect of which the lien exists (Lien Monies) is presently payable; and
-(b) the Company has, not less than 28 days before the date of sale, given a written notice to the person registered as the holder of the Share, or entitled to the Share because of the transmission of the Share to them by operation of law, stating that the Lien Monies is presently payable and demanding payment of the Lien Monies in full, and the notice has not been complied with.
-
-### Proceeds of sale
-29. The Company must apply the proceeds of the sale or other disposal of a Share under this chapter 5:
-(a) first, in payment of all costs and expenses incurred in selling or otherwise disposing of the Share; and
-(b) second, in payment of the Lien Monies (in the case of a lien) or, in in payment of the amounts payable on, for or in respect of the forfeited Share by the registered holder of the Share, and unpaid (Outstanding Monies).
-
-30. The Company must pay the balance (if any) to the person registered as the holder of the Share, or entitled to the Share because of the transmission of the Share to them by operation of law, immediately before the Share was sold or otherwise disposed of or as that person directs, subject to that person delivering to the Company the certificate for the Share.
-
-### Effecting the sale or other disposal
-
-31. The Company may do all things necessary or desirable to facilitate and effect the sale or other disposal of a Share pursuant to this chapter 5.
-
-32. The transferee or other recipient of any Share sold or otherwise disposed of under this chapter 5 is not required to see that the proceeds of the sale or other disposal are properly applied as set out in this chapter 5. The transferee or other recipient's title to the Share is unaffected by any irregularity or invalidity in connection with the sale or other disposal or the application of the proceeds of the sale or other disposal.
-
-33. The transferee or other recipient of any Share sold or otherwise disposed of under this chapter 5 is discharged from liability for any amounts called on the Share which were due before the sale or other disposal of the Share, unless otherwise agreed by the transferee or other recipient and the Company.
-### No release of liability
-
-34. Where the proceeds of the sale or other disposal of a Share under this chapter 5 (after payment of all costs and expenses incurred in selling or otherwise disposing of the Share) are insufficient to pay the Lien Monies or Outstanding Monies in full, the person or persons liable to pay the Lien Monies or Outstanding Monies remain liable to the Company for the balance of the Lien Monies or Outstanding Monies. Nothing in, or done pursuant to, this chapter 5 releases a person who is or was registered as the holder of any Share, from any liability to the Company in respect of the Lien Monies or Outstanding Monies.
-
-### Remedies
-35. The remedy of any person aggrieved by the sale or other disposal of their Shares under this chapter 5 is limited to a right of action in damages against the Company to the exclusion of any other right, remedy or relief against the Company or any other person.
-
-## Chapter 6: Calls
-
-### Company may make calls
-36. The Company may:
-(a) make calls as the Directors determine on a Member for any or all of the amounts unpaid on Shares held by the Member which are not payable at fixed times under the terms of issue of the Shares;
-(b) make a call payable by instalments; and
-(c) revoke or postpone a call or extend the time for payment of the call.
-
-### Time of call
-37. A call is deemed to have been made when the resolution of the Directors authorising that call is passed or as otherwise specified in the resolution.
-
-### Notice and payment of calls
-38. The Company must give written notice of a call on a Member to the Member at least 21 days before the amounts called are due. The notice must specify the time and a reasonable method for payment. The non-receipt of any notice of a call by, or the accidental omission to give notice of a call to, the Member will not invalidate the call.
-
-### Fixed payments deemed calls
-39. Any amount which, by the terms of issue of a Share, becomes payable on issue or at any fixed date, will for the purposes of this Constitution be deemed to be a call for that amount duly made, notified and payable on the date on which the amount is payable. In the case of nonpayment, all the provisions of this Constitution relating to non-payment of calls, including payment of interest, costs and expenses, forfeiture and the cancellation or the sale or other disposal of the Member's Shares will apply as if the amount had become payable by virtue of a call duly made and notified.
-
-### Interest on amounts not paid
-40. Amounts called on a Share and not paid on or before the date for payment bear interest from the date for payment to the time of actual payment at any reasonable rates the Directors may determine. The Company may waive payment of interest, either in whole or in part.
-
-### Payment of calls
-41. A Member must pay the amount of each call made on them at the times and by the methods determined by the Directors or the terms of issue of the Shares on which the call is made.
-
-### Prepayment of calls
-42. A Member may at any time pay to the Company all or any part of the amount unpaid on the Shares held by the Member beyond the amounts actually called (if any).
-
-## Chapter 7: Transfer of Shares
+## Chapter 5: Transfer of Shares
 
 ### Transfer document
-43. Subject to this Constitution and the Law, a Member may transfer any Shares by a transfer document duly stamped and delivered to the Company. The transfer document must:
-(a) be in writing in the usual or common form or in any other form as the Directors may determine or agree to accept;
-(b) include all information required by the Law, including a declaration by the transferor or transferee (or both of them) as to whether as a result of the transfer an overseas corporation or other foreign person (or combination of them) will acquire or cease to have an ownership interest in the company’s shares;
-(c) be signed by or on behalf of the transferor and transferee or as otherwise permitted by the Law; and
-(d) be accompanied by the certificate (if required by Law and if such certificate has been issued) for the Shares to be transferred and any other evidence the Directors may require to prove the title of the transferor to or their right to transfer the Shares.
+43. Subject to this Constitution and the Law, a Member may transfer any Shares by submitting a transaction to the Company Registry signed by their account. The transaction must:
+(a) be valid; and
+TODO: (b) reference in embedded transaction data a hash of a document that contains all information required by the Law, including a declaration by the transferor or transferee (or both of them) as to whether as a result of the transfer an overseas corporation or other foreign person (or combination of them) will acquire or cease to have an ownership interest in the company’s shares;
+(c) be signed by or on behalf of the transferor and transferee or as otherwise permitted by the Law
 
 ### Registration of transfer
 44. Subject to clause 45, the Company must register each transfer of Shares which complies with clause 43 and must do so without charge.
 
-### Directors may refuse to register transfer
-45. Subject to the Law, the Directors may refuse to register any transfer of Shares if, within 21 days of receipt of the application for transfer and other documents required by this chapter 7, the Board passes a resolution to this effect setting out the reason for refusing the transfer and the Company then sends to the transferee and the transferor notice of this refusal, including the reasons for such refusal, within a further 7 days of passing the resolution.
-
-### Retention and return of transfer document
+### Retention and return of transfer documents
 46. The Company must:
-(a) retain all transfer documents for registered transfers of Shares for the period determined by the Directors or otherwise required by law; and
-(b) except in the case of fraud or suspected fraud, return on demand any transfer document for a transfer of Shares which the Directors refuse to register to the person who delivered the document.
+    (a) retain a copy of all transfer documents related to registered transfers in a publicly accessible repository; and
 
-### Transfer not complete until name entered in the Register
-47. The transferor of a Share remains the holder of the Share until the name of the transferee is entered in the Register as the holder of the Share.
+    (b) retain a backup copy of all transfer documents in an encrypted storage medium in the Republic of the Union of Myanmar.
 
 ## Chapter 8: Transmission of Shares
 
@@ -445,6 +385,7 @@
 (e) subject to the terms of their appointment, may exercise any powers that the appointer may exercise in the alternate's own right where the appointer is unavailable for any reason except the power to appoint an alternate Director.
 (f) will automatically vacate office if the appointer is removed or otherwise ceases to be a Director;
 (g) while acting as a Director, is:
+
     (i) an officer of the Company and not the appointing Director's agent; and
     (ii) responsible to the Company for the alternate's own acts and defaults;
 (h) is not entitled to receive any remuneration from the Company but is entitled to paid or reimbursed for reasonable travelling and other costs and expenses incurred in attending and returning from meetings of Directors, any committee of the Directors or any general meetings or otherwise in connection with the Company's business; and
@@ -561,6 +502,7 @@ where a Director may be interested in the exercise, such as an exercise in favou
 136. If the Company is a wholly-owned subsidiary:
 (a) each Director is authorised to act in the best interests of a holding company of the Company; and
 (b) a Director is taken to act in good faith in the best interests of the Company if:
+
     (i) that Director acts in good faith in the best interests of a holding company of the Company; and
     (ii) the Company is not insolvent at the time the Director acts and does not become insolvent because of the Director's act.
 
@@ -639,6 +581,7 @@ where a Director may be interested in the exercise, such as an exercise in favou
 ### Minutes
 154. The Company must enter in its minute books:
 (a) within 21 days of the relevant meeting, minutes containing details of:
+
     (i) the names of the Directors present at each meeting of Directors and of any committee of Directors;
     (ii) all declarations made or notices given by any Director under chapter 17; and
     (iii) all resolutions and proceedings of general meetings, meetings of Directors and meetings of any committee of the Directors; and
