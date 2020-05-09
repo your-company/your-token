@@ -24,57 +24,51 @@
    
    **"Document"** includes, unless otherwise stated, any document sent or supplied in electronic form.
    
-
-**"Encryption" or "Encrypted"** means the process of using cryptographic techniques to protect and obscure information or writing from all persons except the intended recipient, who may access such information using an account or private key.
-
-**"General meeting"** means a general meeting of the Company.
-
-**"Hash"** means the cryptographic technique of generating a unique and irreversible identifier derivable only from an original document or communication.
-
-**"Hard-fork"** means the process of upgrading the blockchain by enacting a change to the underlying protocol. 
-
-**"Law"** means the Myanmar Companies Law 2017.
-
-**"Lien Monies"** has the meaning given in clause 28(a).
-
-**"Member"** means a person who is entered in the Register as the holder of one or more Shares.
-
-**"Office"** means the registered office of the Company.
-
-**"Outstanding Monies"** has the meaning given in clause 29(b).
-
-**"Person"** means, unless the context requires otherwise, a natural person, unincorporated body, firm, partnership, corporate body, or the nominee of an unincorporated body, firm, partnership, or corporate body.
-
-**"Poll"** means, for the purposes of voting, a count of votes attached to shares held by each Member.
-
-**"Public Key" and "Private Key"** means the public and secret numbers associated with a blockchain account, used to generate and verify cryptographic signatures.
-
-**"Register"** means the register of the Company's members required to be set up and maintained under the Law.
-
-**"Repository"** means, unless otherwise specified, a location or address on the Internet from which data, code, documents, and copies of smart contracts may be fetched by request. 
-
-**"Resolution"** means any resolution and includes a resolution of the Directors, an Ordinary Resolution and a Special Resolution.
-
-**"Seal"** means any common seal of the Company, and in the case of electronic forms, means the valid signature of the account of the Company, or of a Director of the Company.
-
-**"Secretary"** means any person appointed as a secretary of the Company in accordance with this Constitution and the Law.
-
-**"Share"** means a share in the capital of the Company.
-
-**"Show of hands"** means, for the purposes of voting, a count of hands of Members.
-
+   **"Encryption" or "Encrypted"** means the process of using cryptographic techniques to protect and obscure information or writing from all persons except the intended recipient, who may access such information using an account or private key.
+   
+   **"General meeting"** means a general meeting of the Company.
+   
+   **"Hash"** means the cryptographic technique of generating a unique and irreversible identifier derivable only from an original document or communication.
+   
+   **"Hard-fork"** means the process of upgrading the blockchain by enacting a change to the underlying protocol. 
+   
+   **"Law"** means the Myanmar Companies Law 2017.
+   
+   **"Member"** means a person who is entered in the Register as the holder of one or more Shares.
+   
+   **"Office"** means the registered office of the Company.
+   
+   **"Person"** means, unless the context requires otherwise, a natural person, unincorporated body, firm, partnership, corporate body, or the nominee of an unincorporated body, firm, partnership, or corporate body.
+   
+   **"Poll"** means, for the purposes of voting, a count of votes attached to shares held by each Member.
+   
+   **"Public Key" and "Private Key"** means the public and secret numbers associated with a blockchain account, used to generate and verify cryptographic signatures.
+   
+   **"Register"** means the register of the Company's members required to be set up and maintained under the Law.
+   
+   **"Repository"** means, unless otherwise specified, a location or address on the Internet from which data, code, documents, and copies of smart contracts may be fetched by request. 
+   
+   **"Resolution"** means any resolution and includes a resolution of the Directors, an Ordinary Resolution and a Special Resolution.
+   
+   **"Seal"** means any common seal of the Company, and in the case of electronic forms, means the valid signature of the account of the Company, or of a Director of the Company.
+   
+   **"Secretary"** means any person appointed as a secretary of the Company in accordance with this Constitution and the Law.
+   
+   **"Share"** means a share in the capital of the Company.
+   
+   **"Show of hands"** means, for the purposes of voting, a count of hands of Members.
+   
    **"Smart Contract"** means code deployed on the blockchain that mediates and defines rules of digital asset properties and behaviors, and which, like a person, may have an associated account and address.
-
+   
    **"Signature"** means, depending on context, the handwritten signature of a person, and in the case of electronic communication, the cryptographic signature associated with that person.
-
+   
    **"Token"** means, unless otherwise specified, a blockchain-based unit-of-account that behaves according to the properties encoded in its smart contract. 
-
+   
    **"Transaction"** means, unless otherwise specified, a transaction on the blockchain submitted and signed by an account.
-
+   
    **"Validation" and "Valid"** means, unless otherwise specified, the process of verifying or 'proving', through crypto-economic techniques, that a particular account, hash, transaction, or signature was created and/or derived from the original document, data, account, or message; and having provided such cryptographic proof, the object in question is said to be 'valid'. In the case of blockchain-specific validation, a particular object in question is 'valid' if and only if the data has been included in no less than 109 blocks in the chain.
-
+   
    **"Writing"** means the representation or reproduction of words, symbols, or other information in a visible form by any method or combination of methods, whether sent or supplied in electronic form or otherwise.
-
 ### Definitions in the Law
 
 2. All words used in this Constitution which have been defined in the Law have the same meaning as given to them in the Law, unless otherwise stated.
