@@ -1,4 +1,5 @@
 # 109 - 110
+>109/110 - A reference to Burmese Code of Criminal Procedure, 1898, sections describing magistrate rights for enforcing good behavior from vagrants, suspected persons, and habitual offenders. Now is Burmese slang for "out of work" or "comes and goes" or other un-tethererd individuals. But in the case of 109-110 Company Limited, the name is a tounge-in-cheek way of celebrating the rejection of 'employment' as an imperative. 
 
 ## Mission
 
